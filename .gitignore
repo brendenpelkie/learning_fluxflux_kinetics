@@ -1,0 +1,8 @@
+__pycache__
+plots
+*.png
+geometrytesting
+CFF/numericalPrec/operatorObservation/results
+.ipynb_checkpoints/
+surfreact.egg-info/
+*.npy
