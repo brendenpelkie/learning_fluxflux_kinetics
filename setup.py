@@ -19,7 +19,7 @@ if __name__ == "__main__":
         version='0.1',
         author=AUTHORS,
         project_urls={
-            'Source': 'https://github.com/valleau-lab/surface_reactions',
+            'Source': 'https://github.com/brendenpelkie/learning_fluxflux_kinetics',
         },
         description=
         'tools for ML with surface reactions and CFF',
